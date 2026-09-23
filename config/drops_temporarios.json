@@ -1,0 +1,61 @@
+{
+  "TESTE_DROP_001": {
+    "nome": "TESTE_DROP_001",
+    "quantidade_referencias": 20,
+    "data_criacao": "2026-09-08T10:00:00",
+    "status": "criacao",
+    "subsetores": {
+      "APROVAÇÃO": {
+        "quantidade": 20,
+        "data_entrada": "2026-09-08T10:00:00",
+        "data_saida": null,
+        "observacao": ""
+      },
+      "MODELAGEM": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      },
+      "PILOTAGEM": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      },
+      "FICHA TÉCNICA": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      },
+      "GRADAÇÃO": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      },
+      "ENCAIXE": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      },
+      "RISCO": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      },
+      "CORTE PILOTO": {
+        "quantidade": 0,
+        "data_entrada": null,
+        "data_saida": null,
+        "observacao": ""
+      }
+    },
+    "referencias_movidas": 0,
+    "drop_permanente": null,
+    "historico": []
+  }
+}

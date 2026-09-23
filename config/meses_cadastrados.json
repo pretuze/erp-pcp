@@ -1,0 +1,25 @@
+{
+  "Agosto_2026": {
+    "nome": "Agosto",
+    "ano": 2026,
+    "inicio": "2026-07-28",
+    "fim": "2026-08-25",
+    "feriados": []
+  },
+  "Setembro_2026": {
+    "nome": "Setembro",
+    "ano": 2026,
+    "inicio": "2026-08-26",
+    "fim": "2026-09-25",
+    "feriados": [
+      {
+        "data": "2026-09-07",
+        "descricao": "Independência do Brasil"
+      },
+      {
+        "data": "2026-09-21",
+        "descricao": "Festa da Cidade - São Mateus"
+      }
+    ]
+  }
+}

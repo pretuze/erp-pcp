@@ -1,0 +1,14 @@
+{
+  "biquini": {
+    "num_funcionarios": 5,
+    "meta_diaria_por_funcionario": 15
+  },
+  "roupa": {
+    "num_funcionarios": 6,
+    "meta_diaria_por_funcionario": 15
+  },
+  "acabamento": {
+    "num_funcionarios": 3,
+    "meta_diaria_por_funcionario": 50
+  }
+}
